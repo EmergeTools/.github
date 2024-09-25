@@ -2,7 +2,7 @@
 
 ### Emerge is already trusted by many of the best mobile teams in the world like: [DoorDash](https://doordash.engineering/2023/01/31/how-we-reduced-our-ios-app-launch-time-by-60/), [Square](https://developer.squareup.com/blog/keeping-up-with-android-app-size-growth), [Airbnb](https://www.youtube.com/watch?v=UKqPqtvZtck), [Duolingo](https://blog.duolingo.com/emerge-tool-app-size/), Dropbox, Bumble and [Stripe](https://github.com/stripe/stripe-ios/pull/2722/checks?check_run_id=14920973060).
 
-### 📸 [Generate xnapshots from Xcode previews](https://github.com/EmergeTools/SnapshotPreviews-iOS) or from [Compose previews](https://github.com/EmergeTools/emerge-android)
+### 📸 [Generate snapshots from Xcode previews](https://github.com/EmergeTools/SnapshotPreviews-iOS) or from [Compose previews](https://github.com/EmergeTools/emerge-android)
 ### 👽 [Use ETTrace to locally profile the performance of your app](https://github.com/EmergeTools/ETTrace)
 ### ✏️ [Check out the Emerge blog](https://www.emergetools.com/blog)
 ### 🏁 [Get started by uploading a build now](https://www.emergetools.com/api/auth/signup?returnTo=/app)
